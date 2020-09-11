@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Leaderboard</string>
+    <string name="splash_view">TODO</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Learning Leaders</string>
+    <string name="tab_text_2">Skill IQ Leaders</string>
+    <string name="top_learner_image">top_learner_image</string>
+    <string name="learning_leader_name">Leader Name</string>
+    <string name="learning_leader_hours_country">Leader Hours/Country</string>
+    <string name="leaderboard_activity">Leaderboard</string>
+    <string name="submit_button">Submit</string>
+    <string name="gads_logo">gads_logo</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="first_name_form_field">First Name</string>
+    <string name="last_name_form_field">Last Name</string>
+    <string name="email_form_field">Email Address</string>
+    <string name="github_link_form_field">Project in GITHUB (Link)</string>
+    <string name="submit_form_button">Submit</string>
+    <string name="cancel_sure">cancel_sure</string>
+    <string name="are_you_sure">Are You Sure ?</string>
+    <string name="yes_button">Yes</string>
+    <string name="submission_fail">Submission Failed</string>
+    <string name="submission_successful">Submission Successful</string>
+    <string name="dialog_cancel_button">dialog cancel button</string>
+    <string name="are_you_sure_dialog">Are You Sure ?</string>
+    <string name="yes_dialog_button">Yes</string>
+    <string name="submission_failed">submission failed</string>
+    <string name="submission_failed_text">Submission Failed</string>
+    <string name="submission_success">submission success</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="skill_iq_leader_name">Leader name</string>
+    <string name="skill_iq_score_country">IQ score/Country</string>
+    <string name="skill_iq_leader_image">leader image</string>
+</resources>
